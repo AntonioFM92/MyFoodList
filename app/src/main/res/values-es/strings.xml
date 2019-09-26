@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyFoodList</string>
+    <string name="title_home">Lista</string>
+    <string name="title_dashboard">Añadir</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="newFood">Nuevo alimento</string>
+
+    <string name="try_again">Try again</string>
+    <string name="cargando">Cargando...</string>
+    <string name="addFood">Añadir alimento</string>
+
+    <string name="food_brand">Marca: </string>
+    <string name="food_name">Nombre: </string>
+
+    <string name="invalid_code">Ningún código válido detectado</string>
+
+    <string name="camera_permission_denied">Permisos de cámara denegados</string>
+    <string name="camera_permission_denied_always">Permisso denegados para siempre</string>
+
+    <string name="must_fill_all_fields">Debe rellenar todos los campos</string>
+    <string name="added_successfully">Añadido correctamente</string>
+    <string name="already_exist">Ya existe este alimento</string>
+
+</resources>

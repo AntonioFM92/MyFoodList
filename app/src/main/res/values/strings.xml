@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyFoodList</string>
+    <string name="title_home">List</string>
+    <string name="title_dashboard">Add</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="newFood">New food</string>
+
+    <string name="try_again">Intente de nuevo</string>
+    <string name="cargando">Cargando...</string>
+    <string name="addFood">Add food</string>
+
+    <string name="food_brand">Brand: </string>
+    <string name="food_name">Name: </string>
+
+    <string name="invalid_code">Nothing valid code detected</string>
+
+    <string name="camera_permission_denied">Permissions denied</string>
+    <string name="camera_permission_denied_always">Permissions denied always</string>
+
+    <string name="must_fill_all_fields">You must fill in all fields</string>
+    <string name="added_successfully">Added successfully</string>
+    <string name="already_exist">Already exist</string>
+
+</resources>
